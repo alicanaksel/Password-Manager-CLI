@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "version": 1,
+    "created_at": "2025-09-04T13:04:15Z",
+    "updated_at": "2025-09-04T13:05:54Z",
+    "count": 2
+  },
+  "entries": {
+    "github": {
+      "username": "alice",
+      "password": "secret",
+      "last_updated": "2025-09-04T13:05:03Z"
+    },
+    "gmail": {
+      "username": "alice.mail",
+      "password": "secretpass",
+      "last_updated": "2025-09-04T13:05:54Z"
+    }
+  }
+}
